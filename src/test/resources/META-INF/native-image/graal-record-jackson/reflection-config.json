@@ -1,0 +1,12 @@
+[
+  {
+    "name": "example.BeanWithConfig",
+    "allPublicConstructors" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name": "example.RecWithConfig",
+    "allPublicConstructors" : true,
+    "allPublicMethods" : true
+  }
+]
